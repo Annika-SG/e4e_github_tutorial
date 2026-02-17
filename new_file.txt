@@ -1,1 +1,15 @@
+Section 1
+Annika was here!
 
+Section 2
+John made this change
+
+Section 3
+
+Section 4
+
+Section 5
+Kate made this change
+
+Section 6
+John made this section
